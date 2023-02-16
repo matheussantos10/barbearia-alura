@@ -6,7 +6,11 @@ Projeto de uma Barbearia. Desenvolvido com a plataforma de cursos da Alura, util
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82851463/217611656-d979a167-fc0e-4f08-83dd-3badfcaa542c.png"/>
+  <h2> Home </h2>  
+  <img src="https://user-images.githubusercontent.com/82851463/218322465-cf250ce4-a22a-48eb-a79b-585a3709ae2a.png"/>
+
+  <h2> Produtos </h2>
+  <img src="https://user-images.githubusercontent.com/82851463/218322512-bcddacd9-bc31-4f58-ad63-68a2de0b87dd.png"/>
 </p>
 
 ## 🚀 Tecnologias
